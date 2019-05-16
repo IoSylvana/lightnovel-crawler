@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Lightnovel Crawler](README.md)
+* [Initial page](README.md)
 
